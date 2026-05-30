@@ -1,1 +1,1 @@
-{ "name": "aura-guard-node-service", "version": "1.0.0", "dependencies": { "lodash": "4.17.21" } } 
+{ "name": "aura-guard-node-service", "version": "1.0.0", "dependencies": { "lodash": "4.17.21", "braces": "3.0.2" } } 
