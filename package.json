@@ -1,8 +1,1 @@
-{
-  "name": "aura-guard-node-service",
-  "version": "1.0.0",
-  "dependencies": {
-    "lodash": "4.17.20",
-    "cross-spawn": "7.0.3"
-  }
-}
+{ "name": "aura-guard-node-service", "version": "1.0.0", "dependencies": { "lodash": "4.17.21" } } 
